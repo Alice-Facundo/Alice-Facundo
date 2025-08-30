@@ -31,20 +31,3 @@ Sou uma desenvolvedora apaixonada por criar soluções inovadoras e eficientes. 
 
 ---
 
-### 📈 Projetos em Destaque
-
-<div align="center">
-
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| **[Controle de Estacionamento](https://github.com/Alice-Facundo/parking-control)** | Uma API RESTful para gerenciar as operações de um estacionamento, incluindo o controle de vagas e o registro de veículos. | `Java`, `Spring Boot`, `PostgreSQL`, `Docker` |
-| **[API de Gerenciamento de Cursos](https://github.com/Alice-Facundo/api-gestao-cursos)** | Uma API para o gerenciamento de cursos, permitindo o cadastro, a atualização e a exclusão de cursos, com funcionalidades de autenticação e autorização. | `Java`, `Spring Boot`, `Spring Security` |
-| **[Primeiro Projeto em Java](https://github.com/Alice-Facundo/first-project-java)** | Meu projeto inicial em Java, onde explorei os conceitos fundamentais da linguagem e da programação orientada a objetos. | `Java` |
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alice-Facundo&theme=dracula" alt="Gráfico de Atividades de Alice Facundo"/>
-</p>
