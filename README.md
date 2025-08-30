@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,django,javascript,react,html,css,mysql,postgres,docker,git" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,django,javascript,react,html,css,mysql,postgres,git" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@ Sou uma desenvolvedora apaixonada por criar soluções inovadoras e eficientes. 
 
 ---
 
-### 🎯 Sobre Mim
+### 😊 Sobre Mim
 
 - 🔭 Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento de software e explorar novas tecnologias.
 - 🌱 Tenho um interesse crescente em desenvolvimento mobile.
