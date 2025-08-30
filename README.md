@@ -25,8 +25,6 @@ Sou uma desenvolvedora apaixonada por criar soluções inovadoras e eficientes. 
 
 <p align="center">
   <a href="https://github.com/Alice-Facundo">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alice-Facundo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Alice Facundo"/>
-    &nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-Facundo&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens de Alice Facundo"/>
   </a>
 </p>
